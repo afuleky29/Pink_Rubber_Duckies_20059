@@ -1,4 +1,11 @@
 .hexagon {
-    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    background-color: blue;
+    stroke: 3px;
+    height: 50px;
+    width: 43.3px;
+}
 
+.top {
+    background-color: blue;
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);   
 }
